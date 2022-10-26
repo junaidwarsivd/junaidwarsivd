@@ -3,8 +3,7 @@
 <!--
 **junaidwarsivd/junaidwarsivd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Be like terminal. Able to do anything but with limits.
-[![@Junaid Warsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=junaidwarsivd&count_private=true&show_icons=true&theme=radical)](https://github.com/junaidwarsivd/github-readme-stats)
+[![@junaidwarsivd's GitHub stats](https://github-readme-stats.vercel.app/api?username=junaidwarsivd&count_private=true&show_icons=true&theme=radical)](https://github.com/junaidwarsivd/github-readme-stats)
 
 Here are some ideas to get you started:
 
